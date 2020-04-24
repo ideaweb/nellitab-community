@@ -4,9 +4,13 @@ This repository is the community site for [NelliTab](https://nellitab.io).
 
 <p align="center"><img alt="Firefox with NelliTab" src="https://raw.githubusercontent.com/ideaweb/firefox-safari-style/master/img/preview.png"/><br/><i>NelliTab in Firefox with <a href="https://github.com/ideaweb/firefox-safari-style">macOS theme</a></i></p>
 
+## Help
+
+NelliTab can be used out of the box, but if you need help e.g. for special configurations please check the [wiki](https://github.com/ideaweb/nellitab-community/wiki).
+
 ## Troubleshooting
 
-Please check first the list of [known issues](https://github.com/ideaweb/nellitab-community/issues) to see if it has been previously reported. Otherwise, please open a ticket [there](https://github.com/ideaweb/nellitab-community/issues). 
+Please check first the list of [known issues](https://github.com/ideaweb/nellitab-community/issues) to see if it has been previously reported. Otherwise, please [open a ticket](https://github.com/ideaweb/nellitab-community/issues). 
 
 ## Any questions?
 
